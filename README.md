@@ -29,5 +29,5 @@ Based on the transient solver results, the antenna performs as follows:
 
 
 
-## 📺 Credits
+ Credits
 This project was implemented by following the educational tutorial by **Tensorbundle** on YouTube.
